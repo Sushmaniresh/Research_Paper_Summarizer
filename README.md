@@ -29,19 +29,6 @@ This project is a **PDF summarizer for Research papers** built using **Streamlit
 
 ---
 
-## 📁 Project Structure
-
-research-paper-summarizer/
-│
-├── app.py                # Main Streamlit application
-├── .env                  # Contains your API key (DO NOT share or commit this)
-├── .env.example          # Example structure for .env file
-├── requirements.txt      # Python dependencies
-├── README.md             # You're here :)
-└── venv/                 # Virtual environment (ignored)
-
----
-
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
